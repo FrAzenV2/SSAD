@@ -6,8 +6,6 @@ This project will help to track amount of files and subfolders in chosen directo
 # Installation
 Download project as Zip. Import code files in your project and use it.
 Check example code if needed;
-# Description
-Following Tool provide you an opportunity to quickly check amount of files and subfolders in certain directory chosen by user.
 # How to use
 Call function `TryGetFilesAmount(string path, out int filesAmoint)` to get amount of files in Directory. If Directory is invalid function will return `False` and files amount -1.
 # Code example
